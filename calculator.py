@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+""" Ngaira Edwin Wisiuva  SCT 211-0543/2022"""
 """A simple claculator in python"""
 
 def calculator():
